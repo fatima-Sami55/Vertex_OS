@@ -1,0 +1,15 @@
+#pragma once
+void clear_overlay_widgets();
+void set_home_background();
+void add_time_label();
+void add_calculator_icon();
+void add_calendar_icon();
+void add_Minigame_icon();
+void add_random_number();
+void add_notepad_icon();
+void add_fileNest_icon();
+void add_music_player_icon();
+void add_video_player_icon();
+void add_home_toggle_icon();
+void add_shutDown_icon();
+void add_task_player_icon();
