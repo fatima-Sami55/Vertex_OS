@@ -53,6 +53,7 @@ VERTEX OS
 📸 Video
 --------------
 [Watch VERTES OS demo here](https://screenrec.com/share/MFsSiD8aGh)
+*   Right-click or Ctrl+Click to open in new tab
 
 📬 Contact
 ----------
