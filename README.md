@@ -1,4 +1,8 @@
-VERTEX OS
+# VERTEX_OS
+![AGPL v3 License](https://img.shields.io/badge/license-AGPLv3-blue.svg)
+![C++](https://img.shields.io/badge/language-C++-brightgreen)
+![GTK](https://img.shields.io/badge/UI-GTK-blueviolet)
+
 =========
 
 **VERTEX OS** is a fully simulated desktop operating system built using `C++`, `GTK`, and `Gstramer`. It features a modular, interactive UI and mimics core functionalities of a real OS environment.
@@ -59,3 +63,10 @@ VERTEX OS
 ----------
 
 If you want to contribute or need help, feel free to open an [issue](https://github.com/your-username/vertex-os/issues) or reach out on GitHub!
+
+## 🧾 License
+
+This project is licensed under the **GNU AGPL v3 License**.  
+You can use, modify, and redistribute it under the same terms.  
+See the [LICENSE](./LICENSE) file for full details.
+
