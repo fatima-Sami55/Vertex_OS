@@ -3,8 +3,6 @@
 ![C++](https://img.shields.io/badge/language-C++-brightgreen)
 ![GTK](https://img.shields.io/badge/UI-GTK-blueviolet)
 
-=========
-
 **VERTEX OS** is a fully simulated desktop operating system built using `C++`, `GTK`, and `Gstramer`. It features a modular, interactive UI and mimics core functionalities of a real OS environment.
 
 🚀 Features
